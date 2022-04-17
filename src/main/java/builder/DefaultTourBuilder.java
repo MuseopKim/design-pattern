@@ -1,6 +1,7 @@
 package builder;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.List;
 
 public class DefaultTourBuilder implements TourPlanBuilder {
